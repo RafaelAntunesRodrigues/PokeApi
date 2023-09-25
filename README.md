@@ -1,5 +1,7 @@
 Nome: Rafael Antunes Rodrigues
 Curso: Análise e Desenvolvimento de Sistemas
+API Utilizada:  https://pokeapi.co/api/v2/
+link Git: https://github.com/RafaelAntunesRodrigues/PokeApi.git
 
 # Projeto: API do Pokémon
 
