@@ -1,3 +1,6 @@
+Nome: Rafael Antunes Rodrigues
+Curso: Análise e Desenvolvimento de Sistemas
+
 # Projeto: API do Pokémon
 
 [![Acesse o projeto](https://eloquent-druid-5d04ed.netlify.app/)](https://eloquent-druid-5d04ed.netlify.app/)
